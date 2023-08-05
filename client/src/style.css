@@ -1,0 +1,12 @@
+.updateBtn,
+.createEmployeeLink,
+.detailBtn {
+  text-decoration: none;
+}
+.updateBtn:hover,
+.detailBtn:hover {
+  color: white;
+}
+.detailBtn {
+  color: green;
+}

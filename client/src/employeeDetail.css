@@ -1,0 +1,38 @@
+.card {
+  border-radius: 10px;
+}
+
+.card-body {
+  border-radius: 0 0 10px 10px;
+  border-top: none;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.card-subtitle {
+  margin-top: 10px;
+  font-size: 1.2rem;
+}
+
+.card-text {
+  margin-top: 20px;
+  font-size: 1.1rem;
+}
+
+h6 {
+  font-weight: bold;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.btn-primary {
+  background-color: #1d3557;
+  border: none;
+  /* &:hover {
+      background-color: #0b243e;
+    } */
+}
